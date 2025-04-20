@@ -55,7 +55,7 @@ const SignupPage = () => {
           to="/"
           className="font-bold text-5xl text-gray-700  my-6 md:my-12"
         >
-          Jella
+          Kanban_Board
         </Link>
         <div className="md:bg-white p-12 md:shadow-lg rounded-md">
           <form

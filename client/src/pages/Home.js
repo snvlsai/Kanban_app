@@ -114,7 +114,8 @@ const Home = () => {
           onAction={handleDeleteBoard}
         />
         <div className='flex items-center bg-white justify-between mb-8 px-6 py-3 md:px-16 shadow-sm'>
-          <h1 className='font-bold text-3xl text-blue-900'>Jella</h1>
+          <h1 className='font-bold text-3xl text-blue-900'>Kanban_Board
+          </h1>
           <UserControl />
         </div>
         <div className='flex justify-center items-center'>

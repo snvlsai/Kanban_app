@@ -51,7 +51,7 @@ const LandingPage = () => {
       <div className="bg-main w-full h-full -z-10 fixed top-0"></div>
       <div className="flex justify-between items-center lg:pb-16 md:pt-6 pt-4 px-8 lg:px-24">
         <a href="/" className="font-bold text-4xl text-blue-900">
-          Jella
+          Kanban_board
         </a>
         <div>
           <Link
@@ -74,8 +74,8 @@ const LandingPage = () => {
       <div className="flex flex-col items-center justify-center my-0 mx-auto w-11/12 px-2 lg:flex-row">
         <div className="md:w-11/12 pt-16 pb-8 md:px-16">
           <h1 className="text-5xl pb-2 lg:text-6xl md:mb-2 text-gray-800 font-bold h-full text-center lg:text-left">
-            Easily build your <strong className="text-gray-900">Kanban </strong>
-            board within minutes.
+            Easily build your <strong className="text-gray-900">Kanban_board </strong>
+             within minutes.
           </h1>
           <p className="text-2xl pb-4 leading-8 text-center text-gray-500 lg:text-left">
             Plan, track and organize your dream projects or everyday tasks.
