@@ -151,7 +151,7 @@ const BoardPage = () => {
 
   return (
     <Suspense fallback={<Loader />}>
-      <div className='h-screen flex flex-col'>
+      <div className="h-screen flex flex-col bg-[url('https://www.original-bachflower.com/wp-content/uploads/2017/04/parallax-bg.jpg')] bg-cover bg-center">
         <CardDetailsBox
           card={selectedCard}
           onClose={() => setSelectedCardId(null)}
